@@ -19,7 +19,7 @@
   <img class="img-title"  src="https://media.giphy.com/media/i4ldQWj8VNnbeGDqop/giphy.gif" style="width: 50px;position: relative;top: 6px"/>
 </h2>
 
-<p style="display: flex;flex-direction: column;align-items: center">
+<p align="center">
   <b>Excelling at Ctrl+F/Ctrl+C/Ctrl+V</b>
 </p>
 
@@ -27,18 +27,11 @@
   <img class="img-title"  src="https://media.giphy.com/media/i4ldQWj8VNnbeGDqop/giphy.gif" style="width: 50px;position: relative;top: 6px"/>
 </h2>
 
-<div data-id="xxxx">
-  <img src="https://github-readme-stats.vercel.app/api?username=HydratedPig">
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HydratedPig" style="position: relative; top: -90px">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HydratedPig"/>
 <div>
 
-<style>
-  div[data-id=xxxx] {
-    display: flex;
-    align-items: start;
-    justify-content: space-evenly;
-  }
-</style>
 <!--
 **HydratedPig/HydratedPig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
