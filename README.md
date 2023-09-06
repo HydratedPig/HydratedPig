@@ -1,6 +1,6 @@
 <h2 align="center">
   <span>Technology Stack</span>
-  <img class="img-title" src="https://media.giphy.com/media/QOza6spFvFRMWATKji/giphy.gif" style="top: 8px">
+  <img class="img-title" src="https://media.giphy.com/media/QOza6spFvFRMWATKji/giphy.gif" style="width: 50px;position: relative;top: 8px">
 </h2>
 <p align="center">
   <img src="https://img.shields.io/badge/Typescript-grey?logo=typescript">
@@ -16,16 +16,21 @@
 </p>
 <h2 align="center">
   <span>Brief Introduction</span>
-  <img class="img-title"  src="https://media.giphy.com/media/i4ldQWj8VNnbeGDqop/giphy.gif" style="top: 6px"/>
+  <img class="img-title"  src="https://media.giphy.com/media/i4ldQWj8VNnbeGDqop/giphy.gif" style="width: 50px;position: relative;top: 6px"/>
 </h2>
 
-<div class="flex" style="flex-direction: column;align-items: center">
+<div style="display: flex;flex-direction: column;align-items: center">
   <b>Excelling at Ctrl+F/Ctrl+C/Ctrl+V</b>
 </div>
 
 <h2 align="center">
-  <img class="img-title"  src="https://media.giphy.com/media/i4ldQWj8VNnbeGDqop/giphy.gif" style="top: 6px"/>
+  <img class="img-title"  src="https://media.giphy.com/media/i4ldQWj8VNnbeGDqop/giphy.gif" style="width: 50px;position: relative;top: 6px"/>
 </h2>
+
+<div style="display: flex;align-items: start;justify-content: space-evenly">
+  <img src="https://github-readme-stats.vercel.app/api?username=HydratedPig">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HydratedPig"/>
+<div>
 <!--
 **HydratedPig/HydratedPig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -40,23 +45,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
   -->
-
-<div>
-</div>
-<div class="flex" style="align-items: start">
-  <img src="https://github-readme-stats.vercel.app/api?username=HydratedPig">
-  <div style="width: 1em"></div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HydratedPig"/>
-<div>
-
-<style>
-.img-title {
-  width: 50px;
-  position: relative;
-}
-
-.flex {
-  display: flex;
-}
-
-</style>
