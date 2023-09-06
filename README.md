@@ -1,6 +1,31 @@
-### Hi there 👋
-此人暂无介绍😶
+<h2 align="center">
+  <span>Technology Stack</span>
+  <img class="img-title" src="https://media.giphy.com/media/QOza6spFvFRMWATKji/giphy.gif" style="top: 8px">
+</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/Typescript-grey?logo=typescript">
+  <img src="https://img.shields.io/badge/Javascript-grey?logo=javascript">
+  <img src="https://img.shields.io/badge/Vue-grey?logo=vue.js">
+  <img src="https://img.shields.io/badge/Webpack-grey?logo=webpack">
+  <img src="https://img.shields.io/badge/Koa-grey?logo=koa">
+  <img src="https://img.shields.io/badge/NodeJs-grey?logo=node.js">
+  <img src="https://img.shields.io/badge/React-grey?logo=react">
+  <img src="https://img.shields.io/badge/Postgresql-grey?logo=postgresql&logoColor=lightblue">
+  <img src="https://img.shields.io/badge/Linux-grey?logo=linux">
+  <img src="https://img.shields.io/badge/Rust-grey?logo=rust">
+</p>
+<h2 align="center">
+  <span>Brief Introduction</span>
+  <img class="img-title"  src="https://media.giphy.com/media/i4ldQWj8VNnbeGDqop/giphy.gif" style="top: 6px"/>
+</h2>
 
+<div class="flex" style="flex-direction: column;align-items: center">
+  <b>Excelling at Ctrl+F/Ctrl+C/Ctrl+V</b>
+</div>
+
+<h2 align="center">
+  <img class="img-title"  src="https://media.giphy.com/media/i4ldQWj8VNnbeGDqop/giphy.gif" style="top: 6px"/>
+</h2>
 <!--
 **HydratedPig/HydratedPig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,14 +39,24 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
 
 <div>
-<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
-<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png">
-<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
-<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
 </div>
+<div class="flex" style="align-items: start">
+  <img src="https://github-readme-stats.vercel.app/api?username=HydratedPig">
+  <div style="width: 1em"></div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HydratedPig"/>
+<div>
 
+<style>
+.img-title {
+  width: 50px;
+  position: relative;
+}
 
-[![HydratedPig's GitHub stats](https://github-readme-stats.vercel.app/api?username=HydratedPig)](https://github.com/anuraghazra/github-readme-stats)
+.flex {
+  display: flex;
+}
+
+</style>
