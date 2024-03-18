@@ -3,32 +3,19 @@
   <img class="img-title" src="https://media.giphy.com/media/QOza6spFvFRMWATKji/giphy.gif" style="width: 50px;position: relative;top: 8px">
 </h2>
 <p align="center">
+  <img src="https://img.shields.io/badge/Vue-grey?logo=vue.js">
+  <img src="https://img.shields.io/badge/NodeJs-grey?logo=node.js">
   <img src="https://img.shields.io/badge/Typescript-grey?logo=typescript">
   <img src="https://img.shields.io/badge/Javascript-grey?logo=javascript">
-  <img src="https://img.shields.io/badge/Vue-grey?logo=vue.js">
-  <img src="https://img.shields.io/badge/Webpack-grey?logo=webpack">
   <img src="https://img.shields.io/badge/Koa-grey?logo=koa">
-  <img src="https://img.shields.io/badge/NodeJs-grey?logo=node.js">
+  <img src="https://img.shields.io/badge/Webpack-grey?logo=webpack">
   <img src="https://img.shields.io/badge/React-grey?logo=react">
   <img src="https://img.shields.io/badge/Postgresql-grey?logo=postgresql&logoColor=lightblue">
   <img src="https://img.shields.io/badge/Linux-grey?logo=linux">
   <img src="https://img.shields.io/badge/Rust-grey?logo=rust">
 </p>
-<h2 align="center">
-  <span>Brief Introduction</span>
-  <img class="img-title"  src="https://media.giphy.com/media/i4ldQWj8VNnbeGDqop/giphy.gif" style="width: 50px;position: relative;top: 6px"/>
-</h2>
-
-<p align="center">
-  <b>Excelling at Ctrl+F/Ctrl+C/Ctrl+V</b>
-</p>
-
-<h2 align="center">
-  <img class="img-title"  src="https://media.giphy.com/media/i4ldQWj8VNnbeGDqop/giphy.gif" style="width: 50px;position: relative;top: 6px"/>
-</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HydratedPig" style="position: relative; top: -90px">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HydratedPig"/>
 <div>
 
